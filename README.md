@@ -1,16 +1,57 @@
-## Hi there 👋
+# Вячеслав Карасев
 
-<!--
-**slavikfish03/slavikfish03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ML / AI Engineer
 
-Here are some ideas to get you started:
+Разрабатываю CV- и LLM-системы для задач биомедицины и промышленности.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Основной стек
+
+- Python
+- PyTorch
+- OpenCV
+- Ultralytics YOLO
+- FastAPI
+- Docker
+- Linux
+- vLLM
+
+## Основные направления
+
+- Computer Vision
+- Video Analytics
+- LLM Applications
+- Inference Services
+- AI Automation
+- Optimization Algorithms
+
+## Опыт
+
+- CV-системы для анализа поведения лабораторных мышей
+- LLM/VLM-сервисы для обработки документов
+- AI-сервисы для фармацевтики и нефтегазовой отрасли
+- Автоматизация аналитических пайплайнов
+
+## Featured Projects
+
+### [MouseDetector](https://github.com/slavikfish03/MouseDetector)
+
+CV-система для анализа поведения лабораторных мышей:
+- YOLO detection + tracking
+- behavior classification
+- heatmaps and analytics
+- Streamlit UI
+- Docker deployment
+
+### [Routio](https://github.com/slavikfish03/routio)
+
+Оптимизация маршрутной сети общественного транспорта с помощью генетического алгоритма:
+- synthetic city generation
+- graph-based routing
+- GA optimization
+- baseline vs GA vs LLM comparison
+- visualization of route networks
+
+## Контакты
+
+- Telegram: @slavikfish
+- Email: slavikfish03@yandex.ru
